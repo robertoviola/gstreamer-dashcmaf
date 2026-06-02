@@ -1,6 +1,4 @@
-```
 **WARNING:** This is an old version of the plugin. The latest implementation is available in the [official GStreamer repository](https://gstreamer.freedesktop.org/documentation/dashsink2/index.html?gi-language=c).
-```
 
 <div align="center">
 <img style="border-radius: 5px;" width="430" src="https://www.vicomtech.org/dist/img/logo.svg"> <br>
